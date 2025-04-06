@@ -1,0 +1,8 @@
+[
+    { "id": "1", "name": "Romance" },
+    { "id": "2", "name": "Mystery & Thriller" },
+    { "id": "3", "name": "Science Fiction" },
+    { "id": "4", "name": "Fantasy" },
+    { "id": "5", "name": "Non-Fiction" },
+    { "id": "6", "name": "Educational" }
+  ]

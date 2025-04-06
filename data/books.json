@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1743847781986",
+    "userId": "e7d4e670-a349-45b0-b55e-48a20533ba5b",
+    "category_id": "2",
+    "title": "erterter",
+    "author": "tertert",
+    "description": "fgfdgdfgdfg5555",
+    "price": 43,
+    "condition": "Good",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/FJoNbZkp6PgiGZfLCLRyMM-768-80.jpg.webp",
+    "created_date": "2025-04-05"
+  },
+  {
+    "id": "1743859981503",
+    "userId": "e3d81cac-4e12-4cdd-9d3a-041837269ed6",
+    "category_id": "2",
+    "title": "gsg",
+    "author": "dfgdfgdsfg",
+    "description": "gfgfdgdfg",
+    "price": 43,
+    "condition": "Good",
+    "imageUrl": "https://cdn.mos.cms.futurecdn.net/eHiayuz8X4QkVa5oLVgTXc-768-80.jpg.webp",
+    "created_date": "2025-04-05"
+  }
+]
